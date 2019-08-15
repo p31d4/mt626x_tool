@@ -1,0 +1,6 @@
+# Cargo
+# https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
+/target/
+
+# Personal stuff
+TODO
